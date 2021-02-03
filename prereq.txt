@@ -1,0 +1,1 @@
+Uniform, Normal, Bernoulli, Binomial, Exponential, Geometric, Hypergeometric, Poisson, Chi-squared, F Distribution, Gamma, Beta, Negative Binomial
